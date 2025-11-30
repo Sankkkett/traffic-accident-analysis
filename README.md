@@ -2,6 +2,8 @@
 ### *An end-to-end Data Analytics Project using SQL, Power BI & Excel*
 
 ---
+## 🖼 Power BI Dashboard 
+![Traffic and Accident Analysis Dashboard](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/Traffic%26Accident%20Dashboard.jpeg)
 
 ## 📌 Project Overview
 
@@ -135,6 +137,4 @@ By identifying:
 
 ---
 
-# 🖼 Dashboard Preview
-![Traffic and Accident Analysis Dashboard](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/Traffic%26Accident%20Dashboard.jpeg)
 
