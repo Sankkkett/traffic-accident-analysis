@@ -41,7 +41,7 @@ A complete detailed PDF report is included in the repository.
 ### 📊 Power BI Dashboard  
 Add the dashboard file or publish link here:
 
-🔗 **Dashboard Link:** *To be added*
+🔗 **Dashboard Link:** *[Traffic&Accident_Insights_Dashboard.pbix](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/Traffic%26Accident%20Dashboard.jpeg)*
 
 ---
 
