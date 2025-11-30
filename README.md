@@ -2,7 +2,7 @@
 ### *An end-to-end Data Analytics Project using SQL, Power BI & Excel*
 
 ---
-## 🖼 Power BI Dashboard 
+## 📊 Power BI Dashboard 
 ![Traffic and Accident Analysis Dashboard](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/Traffic%26Accident%20Dashboard.jpeg)
 
 ## 📌 Project Overview
@@ -37,13 +37,6 @@ This analysis supports **smart city planning, traffic optimization, and road saf
 A complete detailed PDF report is included in the repository.
 
 👉 **[Download Traffic & Accident Analysis Report (PDF)](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/SQL%20Project%20on%20Traffic%20%26%20Accident%20Analysis.pdf)**
-
----
-
-### 📊 Power BI Dashboard  
-Add the dashboard file or publish link here:
-
-🔗 **Dashboard Link:** *[Traffic&Accident_Insights_Dashboard.pbix](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/Traffic%26Accident%20Dashboard.jpeg)*
 
 ---
 
