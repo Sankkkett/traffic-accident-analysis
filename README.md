@@ -34,7 +34,7 @@ This analysis supports **smart city planning, traffic optimization, and road saf
 ### 📄 PDF Report
 A complete detailed PDF report is included in the repository.
 
-👉 **[Download Traffic & Accident Analysis Report (PDF)]()**
+👉 **[Download Traffic & Accident Analysis Report (PDF)](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/SQL%20Project%20on%20Traffic%20%26%20Accident%20Analysis.pdf)**
 
 ---
 
@@ -49,7 +49,9 @@ Add the dashboard file or publish link here:
 - Raw Traffic Data  
 - Cleaned Dataset  
 - STAR Schema Dataset  
-
+👉 **[Traffic_table.csv](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/traffic_table.csv)**
+👉 **[Locations.csv](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/locations.csv)**
+👉 **[Accident_table.csv](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/accident_table.csv)**
 ---
 
 ### 🗄 SQL Scripts
