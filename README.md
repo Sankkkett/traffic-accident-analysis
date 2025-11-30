@@ -136,4 +136,5 @@ By identifying:
 ---
 
 # 🖼 Dashboard Preview
+![Traffic and Accident Analysis Dashboard](https://github.com/Sankkkett/traffic-accident-analysis/blob/main/Traffic%26Accident%20Dashboard.jpeg)
 
