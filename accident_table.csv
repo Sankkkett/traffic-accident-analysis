@@ -1,0 +1,51 @@
+id,location_id,timestamp,severity,type
+1,L4,06-10-2024 22:26,3,collision
+2,L3,11-10-2024 14:19,2,pedestrian incident
+3,L4,24-10-2024 15:56,4,single vehicle
+4,L7,08-10-2024 03:50,2,pedestrian incident
+5,L1,05-10-2024 04:26,4,pedestrian incident
+6,L6,24-10-2024 08:53,2,collision
+7,L3,03-10-2024 16:27,5,collision
+8,L10,02-10-2024 20:58,5,pedestrian incident
+9,L7,02-10-2024 02:53,5,single vehicle
+10,L10,08-10-2024 15:01,1,collision
+11,L2,21-10-2024 04:21,4,single vehicle
+12,L2,07-10-2024 17:23,5,single vehicle
+13,L4,08-10-2024 15:54,1,pedestrian incident
+14,L1,13-10-2024 18:04,4,pedestrian incident
+15,L3,05-10-2024 23:50,2,pedestrian incident
+16,L9,28-10-2024 13:34,1,pedestrian incident
+17,L7,18-10-2024 02:25,3,collision
+18,L7,24-10-2024 06:07,1,collision
+19,L4,25-10-2024 20:29,1,pedestrian incident
+20,L2,08-10-2024 16:26,4,collision
+21,L4,05-10-2024 03:44,2,pedestrian incident
+22,L6,16-10-2024 16:50,3,single vehicle
+23,L3,07-10-2024 15:43,5,single vehicle
+24,L1,10-10-2024 07:27,5,single vehicle
+25,L8,21-10-2024 14:59,1,pedestrian incident
+26,L5,04-10-2024 23:30,4,single vehicle
+27,L5,08-10-2024 19:27,4,collision
+28,L4,30-10-2024 08:20,5,single vehicle
+29,L6,08-10-2024 14:42,3,single vehicle
+30,L3,01-10-2024 16:40,2,single vehicle
+31,L9,13-10-2024 20:50,3,collision
+32,L5,06-10-2024 18:42,2,pedestrian incident
+33,L3,10-10-2024 12:16,5,collision
+34,L1,05-10-2024 20:47,2,pedestrian incident
+35,L10,04-10-2024 12:52,4,pedestrian incident
+36,L6,24-10-2024 00:42,1,single vehicle
+37,L2,05-10-2024 01:56,1,pedestrian incident
+38,L3,15-10-2024 19:30,5,collision
+39,L1,04-10-2024 02:59,4,collision
+40,L9,02-10-2024 08:26,3,pedestrian incident
+41,L8,16-10-2024 23:01,4,single vehicle
+42,L2,02-10-2024 02:19,1,single vehicle
+43,L8,04-10-2024 10:07,1,collision
+44,L9,26-10-2024 20:46,4,single vehicle
+45,L1,17-10-2024 23:18,4,pedestrian incident
+46,L5,04-10-2024 07:42,1,pedestrian incident
+47,L8,09-10-2024 08:18,3,collision
+48,L2,06-10-2024 16:35,5,pedestrian incident
+49,L4,27-10-2024 18:09,5,collision
+50,L7,20-10-2024 17:30,4,pedestrian incident
